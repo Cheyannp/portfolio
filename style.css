@@ -47,8 +47,8 @@ font-weight:bold;
 }
 #Aboutme{
 left:500px;
-width:200px;
-  height:200px;
+ height: 50%;
+  width: 50%;
 }
 #headings{
   font-family: 'Brush Script MT', cursive;
