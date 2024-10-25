@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.menu{
+  position:absolute;
+  top:40px;
+  left:60px;
+  text-transform:capitalize;
+  font-family:'Courier New', monospace;
+  font-size: 1.4em;
+  overflow:hidden;
+  width:150px;
+}
+.menu a{
+background-color:#ffffff;
+  color: white ;
+  font-size: 0.6em;
+  padding: 1px;
+  display:none;
+}
+.menu:hover a{
+background-color:#c4bfd4;
+  display: block ;
+}
+.menu a:hover{
+background-color:#cbd9e6 ;
+border:1px solid black;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+.container{
+   background-color:#cfc6dc;
+}
+.po{
+  background-color: #fddde6;
+}
+.header{
+  color:black;
+  font-family: 'Brush Script MT', cursive;
+}
+#flower{
+  font-size:3em;
+}
+#aboutMe{
+ font-family: 'Courier New', monospace;
+font-weight:bold;
+}
+#Aboutme{
+left:500px;
+}
+#headings{
+  font-family: 'Brush Script MT', cursive;
+}
