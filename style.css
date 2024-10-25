@@ -5,21 +5,17 @@ html {
 .menu{
   position:absolute;
   top:40px;
-  right:60px;
+  left:60px;
   text-transform:capitalize;
   font-family:'Courier New', monospace;
   font-size: 1.4em;
   overflow:hidden;
   width:150px;
 }
-
-body{
-  background-color:#e5f5fd;
-}
 .menu a{
 background-color:#ffffff;
   color: white ;
- font-size: 0.6em;
+  font-size: 0.6em;
   padding: 1px;
   display:none;
 }
@@ -31,12 +27,12 @@ background-color:#c4bfd4;
 background-color:#cbd9e6 ;
 border:1px solid black;
 }
-
+html {
+  height: 100%;
+  width: 100%;
+}
 .container{
-   background-color:#aecce4;
-  width:100px;
-   top:500px;
- 
+   background-color:#cfc6dc;
 }
 .po{
   background-color: #fddde6;
