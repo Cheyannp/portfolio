@@ -34,7 +34,8 @@ border:1px solid black;
 
 .container{
    background-color:#cfc6dc;
-  width:300px;
+  width:150px;
+  height:150px;
 }
 .po{
   background-color: #fddde6;
