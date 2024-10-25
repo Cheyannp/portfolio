@@ -41,7 +41,7 @@ border:1px solid black;
 #flower{
   font-size:3em;
 }
-#aboutMe{
+.aboutMe{
  font-family: 'Courier New', monospace;
 font-weight:bold;
 }
