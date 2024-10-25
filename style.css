@@ -14,7 +14,7 @@ html {
 }
 
 body{
-  background-color:#ffffff;
+  background-color:#e5f5fd;
 }
 .menu a{
 background-color:#ffffff;
@@ -34,6 +34,9 @@ border:1px solid black;
 
 .container{
    background-color:#aecce4;
+  width:100px;
+   top:500px;
+ 
 }
 .po{
   background-color: #fddde6;
