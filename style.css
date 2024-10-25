@@ -29,14 +29,14 @@ border:1px solid black;
 }
 
 .container{
-   background-color:#cfc6dc;
+   background-color:#e5f3fd;
 }
 .po{
-  background-color: #fddde6;
+  background-color: #aecce4;
 }
 .header{
   color:black;
-  font-family: 'Brush Script MT', cursive;
+   font-family: 'Times New Roman', serif;
 }
 #flower{
   font-size:3em;
