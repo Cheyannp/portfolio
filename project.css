@@ -62,7 +62,7 @@ overflow:hidden;
   transition:height 4s;
 }
 .wave:hover{
-  height:520px;
+  height:540px;
   z-index:1;
 }
 .menu{
