@@ -95,11 +95,11 @@ background-color:#ffffff;
   display:none;
 }
 .menu:hover a{
-background-color:#c4bfd4;
+background-color:#b3a7db;
   display: block ;
 }
 .menu a:hover{
-background-color:#cbd9e6 ;
+background-color:#9384c4 ;
 border:1px solid black;
 }
 
