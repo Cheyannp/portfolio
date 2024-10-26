@@ -83,11 +83,11 @@ background-color:#ffffff;
   display:none;
 }
 .menu:hover a{
-background-color:#b3a7db;
+background-color:#c4bfd4;
   display: block ;
 }
 .menu a:hover{
-background-color:#9384c4 ;
+background-color:#cbd9e6 ;
 border:1px solid black;
 }
 
