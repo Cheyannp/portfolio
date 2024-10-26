@@ -1,11 +1,11 @@
 body{
-  background-color: #fddde6;
+  background-color: #e5f3fd;
 }
 *{
   box-sizing:border-box;
 }
 .banner{
-background-color:#f9f1f1;
+background-color:#aecce4;
   margin:15px;
   padding:10px;
   height:120px;
@@ -38,98 +38,34 @@ border:3px solid #ffe4e1 ;
 }
 #cfu1{
   border:2px solid #ffffff;
-background-color:rgba(207,198,220,0.6);
+background-color:rgba(187, 218, 240, 0.6);
   padding:3px;
   display:block;
   margin:1px;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Times New Roman', serif;
   font-size: 1em;
 
 }
 #cfu2{
-background-color:rgba(207,198,220,0.6);
+background-color:rgba(187, 218, 240,0.6);
   border:2px solid #ffffff;
   padding:5px;
   display:block;
   margin:1px;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Times New Roman', serif;
   font-size: 1em;
 }
 #cfu3{
-background-color:rgba(207,198,220,0.6);
+background-color:rgba(187, 218, 240, 0.6);
   border:2px solid #ffffff;
   padding:5px;
   display:block;
   margin:1px;
-  font-family: 'Brush Script MT', cursive;
-  font-size: 1em;
-}
-#cfu4{
-background-color:rgba(207,198,220,0.6);
-    border:2px solid #ffffff;
-  padding:5px;
-  display:block;
-  margin:1px;
-  font-family: 'Brush Script MT', cursive;
-  font-size: 1em;
-}
-#cfu5{
-background-color:rgba(207,198,220,0.6);
-    border:2px solid #ffffff;
-  padding:5px;
-  display:block;
-  margin:1px;
-  font-family: 'Brush Script MT', cursive;
-  font-size: 1em;
-}
-
-#cfu6{
-background-color:rgba(207,198,220,0.6);
-    border:2px solid #ffffff;
-  padding:5px;
-  display:block;
-  margin:1px;
-  font-family: 'Brush Script MT', cursive;
-  font-size: 1em;
-}
-#cfu7{
-background-color:rgba(207,198,220,0.6);
-    border:2px solid #ffffff;
-  padding:5px;
-  display:block;
-  margin:1px;
-  font-family: 'Brush Script MT', cursive;
-  font-size: 1em;
-}
-#cfu8{
-background-color:rgba(207,198,220,0.6);
-    border:2px solid #ffffff;
-  padding:5px;
-  display:block;
-  margin:1px;
-  font-family: 'Brush Script MT', cursive;
-  font-size: 1em;
-}
-#cfu9{
-background-color:rgba(207,198,220,0.6);
-    border:2px solid #ffffff;
-  padding:5px;
-  display:block;
-  margin:1px;
-  font-family: 'Brush Script MT', cursive;
-  font-size: 1em;
-}
-#cfu10{
-background-color:rgba(207,198,220,0.6);
-    border:2px solid #ffffff;
-  padding:5px;
-  display:block;
-  margin:1px;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Times New Roman', serif;
   font-size: 1em;
 }
 .wave{
-background-color:rgba(207,198,220,0.6);
+background-color:rgba(187, 218, 240, 0.6);
 height:55px;
 overflow:hidden;
  width:80%;
