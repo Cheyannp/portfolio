@@ -17,24 +17,12 @@ background-color:#aecce4;
   font-size: 0.4em;
   text-align:right;
 }
-#logo{
-width:65px;
-  position:absolute;
-  top:28px;
-  right:235px;
-}
-#heartone{
-width:50px;
-  position:absolute;
-  top:57px;
-  right:300px;
-}
 .container{
-border:3px solid #ffe4e1 ;
+border:3px solid #658aa3 ;
   margin:15px;
   padding:10px;
   height:620px;
-  background-color:rgba(245,218,223,0.5);
+  background-color:rgba(240, 246, 250, 0.5);
 }
 #cfu1{
   border:2px solid #ffffff;
