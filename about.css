@@ -27,16 +27,12 @@ background-color:#c4bfd4;
 background-color:#cbd9e6 ;
 border:1px solid black;
 }
-html {
-  height: 100%;
-  width: 100%;
-}
 .container{
-   background-color:#cfc6dc;
+   background-color:#e3f3fd;
   width:100%;
 }
 .po{
-  background-color: #fddde6;
+  background-color: #aecce4;
 }
 .header{
   color: #fddde6;
@@ -57,7 +53,7 @@ font-weight:bold;
 #listTitle{
   font-family: 'Courier New', monospace;
   font-weight:bold;
-  background-color:#d1b3ea;
+  background-color:#bdd5e7;
 }
 #career{
    font-family: 'Courier New', monospace;
