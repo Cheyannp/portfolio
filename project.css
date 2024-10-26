@@ -1,0 +1,199 @@
+body{
+  background-color: #fddde6;
+}
+*{
+  box-sizing:border-box;
+}
+.banner{
+background-color:#f9f1f1;
+  margin:15px;
+  padding:10px;
+  height:120px;
+  border:3px solid #black;
+  box-shadow:5px 5px 15px 10px #ded6f0;
+  outline:2px 1px groove #b7ade6;
+  text-transform:capitalize;
+  font-family:'Courier New', monospace;
+  font-size: 0.4em;
+  text-align:right;
+}
+#logo{
+width:65px;
+  position:absolute;
+  top:28px;
+  right:235px;
+}
+#heartone{
+width:50px;
+  position:absolute;
+  top:57px;
+  right:300px;
+}
+.container{
+border:3px solid #ffe4e1 ;
+  margin:15px;
+  padding:10px;
+  height:620px;
+  background-color:rgba(245,218,223,0.5);
+}
+#cfu1{
+  border:2px solid #ffffff;
+background-color:rgba(207,198,220,0.6);
+  padding:3px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+
+}
+#cfu2{
+background-color:rgba(207,198,220,0.6);
+  border:2px solid #ffffff;
+  padding:5px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+}
+#cfu3{
+background-color:rgba(207,198,220,0.6);
+  border:2px solid #ffffff;
+  padding:5px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+}
+#cfu4{
+background-color:rgba(207,198,220,0.6);
+    border:2px solid #ffffff;
+  padding:5px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+}
+#cfu5{
+background-color:rgba(207,198,220,0.6);
+    border:2px solid #ffffff;
+  padding:5px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+}
+
+#cfu6{
+background-color:rgba(207,198,220,0.6);
+    border:2px solid #ffffff;
+  padding:5px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+}
+#cfu7{
+background-color:rgba(207,198,220,0.6);
+    border:2px solid #ffffff;
+  padding:5px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+}
+#cfu8{
+background-color:rgba(207,198,220,0.6);
+    border:2px solid #ffffff;
+  padding:5px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+}
+#cfu9{
+background-color:rgba(207,198,220,0.6);
+    border:2px solid #ffffff;
+  padding:5px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+}
+#cfu10{
+background-color:rgba(207,198,220,0.6);
+    border:2px solid #ffffff;
+  padding:5px;
+  display:block;
+  margin:1px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 1em;
+}
+.wave{
+background-color:rgba(207,198,220,0.6);
+height:55px;
+overflow:hidden;
+ width:80%;
+  position:relative;
+  left:10%;
+  transition:height 4s;
+}
+.wave:hover{
+  height:450px;
+  z-index:1;
+}
+.menu{
+  position:absolute;
+  top:40px;
+  left:60px;
+  text-transform:capitalize;
+  font-family:'Courier New', monospace;
+  font-size: 1.4em;
+  overflow:hidden;
+  width:150px;
+}
+.menu a{
+background-color:#ffffff;
+  color: white ;
+  font-size: 0.6em;
+  padding: 1px;
+  display:none;
+}
+.menu:hover a{
+background-color:#c4bfd4;
+  display: block ;
+}
+.menu a:hover{
+background-color:#cbd9e6 ;
+border:1px solid black;
+}
+
+h4{
+  font-family:'Courier New', monospace;
+}
+h2{
+font-family:'Courier New', monospace;bold
+}
+.link{
+  color:black;
+  background-color: #c7c7e0;
+
+}
+.projectHeadings{
+ font-weight: bold;
+ font-family: 'Courier New', monospace;
+}
+.Description{
+  font-weight:bold;
+ font-family: 'Courier New', monospace;
+}
+.colectionlink{
+   position:absolute;
+  top:90px;
+  left:60px;
+  text-transform:capitalize;
+  font-family:'Courier New', monospace;
+  font-size: .9em;
+  width:170px;
+  color:black;
+  background-color:#b7c8d7;
+}
