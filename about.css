@@ -76,5 +76,8 @@ font-weight:bold;
 #radiology{
  text-decoration: none; 
 color: black !important;
+ font-family: 'Courier New', monospace;
+font-weight:bold;
+font-size:.9em;
 }
  
