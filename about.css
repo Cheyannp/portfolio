@@ -60,15 +60,7 @@ font-weight:bold;
   font-weight:bold;
   font-size:.9em;
 }
-#ambulance{
-  width:700px;
-}
 #headings{
   font-family: 'Times New Roman', serif;
-}
-#pinkflower{
-  width:150px;
-  position:absolute;
-  top:230px;
-  left:300px;
+  padding-left: 80px;
 }
