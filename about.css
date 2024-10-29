@@ -60,10 +60,10 @@ font-weight:bold;
   font-weight:bold;
   font-size:.9em;
 }
-#headings{
+#headings {
   font-family: 'Times New Roman', serif;
 }
-#careerheading{
+#careerheading {
   font-family: 'Times New Roman', serif;
-  padding-left: 80px;
+  padding: 20px; 
 }
