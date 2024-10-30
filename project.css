@@ -121,3 +121,6 @@ font-family:'Courier New', monospace;bold
   color:black;
   background-color:#b7c8d7;
 }
+.image{
+  border:2px solid #ffffff;
+}
