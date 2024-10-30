@@ -15,6 +15,13 @@ h6{
   text-align: center;
  font-family: 'Times New Roman', serif;
 }
+#linkin{
+ text-decoration: none; 
+color: black !important;
+ text-align: center;
+ font-family: 'Times New Roman', serif;
+}
+
 
 form {
     max-width: 600px;
