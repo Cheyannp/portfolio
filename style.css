@@ -42,14 +42,16 @@ border:1px solid black;
 }
 .header{
   color:black;
-   font-family: 'Times New Roman', serif;
+    font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
 }
 #flower{
   font-size:3em;
 }
 .aboutMe{
- font-family: 'Courier New', monospace;
-font-weight:bold;
+ font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 #Aboutme{
 left:500px;
