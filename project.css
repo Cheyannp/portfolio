@@ -94,10 +94,14 @@ border:1px solid black;
 }
 
 h4{
-  font-family:'Courier New', monospace;
+font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 h2{
-font-family:'Courier New', monospace;bold
+font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 .link{
   color:black;
