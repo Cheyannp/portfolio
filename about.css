@@ -36,7 +36,8 @@ border:1px solid black;
 }
 .header{
   color:#000000;
-  font-family: 'Times New Roman', serif;
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
 }
 #flower{
   font-size:3em;
