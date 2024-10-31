@@ -11,7 +11,9 @@ body{
   top:40px;
   left:60px;
   text-transform:capitalize;
-  font-family:'Courier New', monospace;
+ font-family: "Oranienbaum", serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 1.4em;
   overflow:hidden;
   width:150px;
