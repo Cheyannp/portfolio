@@ -105,12 +105,14 @@ font-family:'Courier New', monospace;bold
 
 }
 .projectHeadings{
- font-weight: bold;
- font-family: 'Courier New', monospace;
+ font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+  font-style: italic;
 }
 .Description{
-  font-weight:bold;
- font-family: 'Courier New', monospace;
+font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 .colectionlink{
    position:absolute;
