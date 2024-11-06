@@ -20,7 +20,7 @@ h6{
   font-weight: 400;
   font-style: normal;
 }
-.link{
+#linkin{
  text-decoration: none; 
 color: black !important;
  text-align: center;
@@ -28,7 +28,14 @@ color: black !important;
   font-weight: 400;
   font-style: normal;
 }
-
+#email{
+ text-decoration: none; 
+color: black !important;
+ text-align: center;
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
 
 form {
     max-width: 600px;
