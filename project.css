@@ -90,7 +90,7 @@ overflow:hidden;
   transition:height 4s;
 }
 .wave:hover{
-  height:600px;
+  height:590px;
   z-index:1;
 }
 .menu{
