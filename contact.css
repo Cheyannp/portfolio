@@ -37,39 +37,21 @@ color: black !important;
   font-style: normal;
 }
 
-form {
-    max-width: 600px;
-    margin: auto;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+.container{
+   background-color:#e5f3fd;
 }
-
-label {
-    display: block;
-    margin-bottom: 10px;
+#headings{
+ font-family: 'Times New Roman', serif;
 }
-
-input,
-textarea {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 20px;
-    box-sizing: border-box;
-    border: 1px solid #d1e5f4;
-    border-radius: 4px;
+.header{
+  color:black;
+    font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
 }
-
-input[type="submit"] {
-    background-color: #bdd5ef;
-    color: white;
-    cursor: pointer;
-    border: none;
-}
-
-input[type="submit"]:hover {
-    background-color: #bdd5ef;
+#Aboutme{
+left:500px;
+ height: 500px;
+  width: 500px;
 }
 .menu{
   position:absolute;
