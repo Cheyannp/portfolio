@@ -41,12 +41,14 @@ color: black !important;
    background-color:#e5f3fd;
 }
 #headings{
- font-family: 'Times New Roman', serif;
-}
-.header{
-  color:black;
+color:black;
     font-family: "Cormorant Garamond", serif;
   font-weight: 400;
+}
+.info{
+ font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 #Aboutme{
 left:500px;
