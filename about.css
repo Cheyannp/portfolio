@@ -87,7 +87,7 @@ font-size:.9em;
   font-style: italic;
   padding: 14px; 
 }
-#listlink a {
+.listlink a {
     color: black !important;
       font-family: "Ubuntu Mono", monospace;
   font-weight: 400;
