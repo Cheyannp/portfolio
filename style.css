@@ -59,9 +59,16 @@ body{
   font-style: normal;
 }
 .aboutLink {
-  text-decoration: underline;
-  color: black !important;
+  text-decoration: underline !important; 
+  color: black !important; 
 }
+.aboutLink:visited,
+.aboutLink:hover,
+.aboutLink:active {
+  color: black !important; 
+  text-decoration: underline !important;
+}
+
 #Aboutme{
 left:500px;
  height: 500px;
