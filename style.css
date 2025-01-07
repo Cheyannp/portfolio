@@ -60,7 +60,7 @@ body{
 }
 .aboutLink {
   text-decoration: underline;
-  color: black; 
+  color: black !important;
 }
 #Aboutme{
 left:500px;
