@@ -108,6 +108,15 @@ background-color:rgba(187, 218, 240, 0.6);
   font-family: 'Times New Roman', serif;
   font-size: 1em;
 }
+#cfu12{
+ border: 2px solid #ffffff !important;
+  background-color: rgba(187, 218, 240, 0.6);
+  padding: 3px;
+  display: block;
+  margin: 1px;
+  font-family: 'Times New Roman', serif;
+  font-size: 1em;
+}
 .wave{
 background-color:rgba(187, 218, 240, 0.6);
 height:55px;
