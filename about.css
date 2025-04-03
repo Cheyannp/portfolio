@@ -101,5 +101,35 @@ color: black !important;
   font-style: normal;
 font-size:.9em;
 }
+.committed-college {
+    background-color: #e6e0f8; /* Light purple background */
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
 
+.committed-title {
+    background-color: #a78bfa; /* Purple */
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.committed-content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.committed-content p {
+    font-family: "Ubuntu Mono", monospace;
+    font-size: 0.9em;
+    max-width: 60%;
+}
+
+.committed-content img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
   
